@@ -1,3 +1,3 @@
   # Instagram
-  #### Group exercise 1
-  - This exercise is for building a blog using JavaScript and using local storage.
+  
+  - This exercise is for building a post Instagram using JavaScript and using local storage.
